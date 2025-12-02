@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alwaysvv
+- 👋 Hi, I’m @Suzufan
 - 👀 I’m interested in Electronics Engineering and Computer Science
 - 🌱 I’m currently learning Petroleum Engineering
 - 💞️ I’m looking to collaborate on Python web crawler and Integrated circuit design
